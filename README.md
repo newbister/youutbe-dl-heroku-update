@@ -1,5 +1,5 @@
 # youtube-dl-api-server
-A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API server](https://github.com/jaimeMF/youtube-dl-api-server).
+A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API server](https://github.com/newbister/youutbe-dl-heroku-update).
 
 ## Deploying to Heroku
 
@@ -9,7 +9,7 @@ A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API serv
 
 0. Ensure you have the [Heroku toolbelt](https://toolbelt.heroku.com) installed and set-up.
 
-1. Clone this repo: `git clone https://github.com/iphoting/youtube-dl-api-server-heroku`.
+1. Clone this repo: `git clone https://github.com/newbister/youutbe-dl-heroku-update`.
 
 2. Provision a Heroku app: `cd youtube-dl-api-server-heroku; heroku create <your-app-name>`.
 
